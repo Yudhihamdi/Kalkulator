@@ -1,0 +1,2 @@
+rootProject.name='Projekbaru'
+include ':app'
